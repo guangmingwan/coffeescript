@@ -33,10 +33,10 @@
     "test-harmony": "node --harmony ./bin/cake test"
   },
   "homepage": "https://coffeescript.org",
-  "bugs": "https://github.com/jashkenas/coffeescript/issues",
+  "bugs": "https://github.com/guangmingwan/coffeescript/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jashkenas/coffeescript.git"
+    "url": "git://github.com/guangmingwan/coffeescript.git"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
